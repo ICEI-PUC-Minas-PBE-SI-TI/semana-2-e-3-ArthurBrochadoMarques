@@ -2,9 +2,21 @@
 
 ## Informações Gerais
 
-- Nome: 
-- Matrícula:
+- Nome: Arthur Brochado Marques
+- Matrícula: 907210
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-`<Coloque aqui o print da tela do Curriculum Vitae>`
+
+![alt text](image-1.png)
+
+
+
+
+<Coloque aqui o print da tela do Curriculum Vitae>
+
+
+
+![alt text](image.png)
+
+
