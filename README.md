@@ -20,3 +20,6 @@
 ![alt text](image.png)
 
 
+<Curriculo>
+
+![alt text](image.png)
